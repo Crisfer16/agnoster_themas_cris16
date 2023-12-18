@@ -1,6 +1,12 @@
 Entorno utilizado: Cinnamon
 
-Modificación para hacer al entorno igual o parecido al que se puede ver en la imagen vista_entorno.png.
+descripción:
+
+Modificación para hacer al entorno y terminal(en la terminal esta en lo ultimo) igual o parecido al que se puede ver en la imagen vista_entorno.png.
+
+los enlaces van relacionados al entorno de Cinnamon, para utilizarlo en otros entornos confirmar si se puede utilizar.
+
+-----
 
 tenemos que tener esta configuracion en temas(dejaremos imagen adjuntada:configuracion_de_temas.png).
  
