@@ -1,4 +1,4 @@
-SO: Linux Mint (entorno predeterminado Cinnamon)
+Entorno utilizado: Cinnamon
 
 Modificación para hacer al entorno igual o parecido al que se puede ver en la imagen vista_entorno.png.
 
